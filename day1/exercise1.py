@@ -7,3 +7,4 @@ class = "NCP Code!"
 if = "fi"
 do_your_work! = False
 1mad00r = 999
+my_name = "jeff"
